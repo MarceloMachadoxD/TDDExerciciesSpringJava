@@ -30,8 +30,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Java 11](https://docs.oracle.com/en/java/javase/11/)
 - [Hibernate + JPA](https://hibernate.org/)
 - [SQL]()
-- [JUnit5](https://hibernate.org/)
-- [Mockito](https://hibernate.org/)
+- [JUnit5](https://junit.org/junit5/)
+- [Mockito](https://site.mockito.org/)
 
 ---
 

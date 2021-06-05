@@ -35,7 +35,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ---
 
-### 🎲 Construir CRUD para testes
+### 🎲 Construir API para testes
 
 ```Java
 @Test
